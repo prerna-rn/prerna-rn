@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Prerna</h1>
-<h3 align="center">A passionate MERN and ML developer</h3>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Prerna </h1>
+
+<h3 align="center">Smart India Hackathon 2023 Grand Finalist </h3>
+
+- 🌱 I’m currently learning **MERN, ML**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna-rn&label=Profile%20views&color=0e75b6&style=flat" alt="prerna-rn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prerna-rn" alt="prerna-rn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prernasigh" target="blank"><img src="https://img.shields.io/twitter/follow/prernasigh?logo=twitter&style=for-the-badge" alt="prernasigh" /></a> </p>
-
-- 🌱 I’m currently learning **MERN, ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
