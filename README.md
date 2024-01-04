@@ -4,8 +4,8 @@
 - 💻 Works on **MERN, ML** <br>
 - Connect with me: <a href="https://twitter.com/prernasigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prernasigh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prerna-s-5b116922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prerna-s-5b116922a" height="30" width="40" /></a>
-
-
+<!--src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png-->
+<!--img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna-rn&label=Profile%20views&color=0e75b6&style=flat" alt="prerna-rn" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prerna-rn" alt="prerna-rn" /></a> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="350"/>
